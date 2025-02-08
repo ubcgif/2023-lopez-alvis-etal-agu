@@ -2,7 +2,7 @@ version: 1
 project:
   id: ubcgif-2023-lopez-alvis-etal-agu
   title: Using convolutional neural networks to classify UXO with multicomponent electromagnetic induction data  
-  description: Talk presented in NS43A-09 2023 session
+  description: Talk presented at the American Geophysical Union (AGU) fall meeting in the NS43A-09 2023 session
   authors:
     - name: Jorge Lopez-Alvis
       email:  jlalvis@eoas.ubc.ca
